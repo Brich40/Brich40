@@ -1,5 +1,5 @@
 # Hello !👋
-I am a software Engineer. I am interested in developing (open source) software solutions using Python, PHP, JavaScript, TypeScript, Angular.
+I am a software Engineer. I am interested in developing (open source) software solutions using Python, PHP, JavaScript, TypeScript.
 
 ## My GitHub stats :
 [![Brich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brich40&theme=tokyonight)](https://github.com/Brich40/)
