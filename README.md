@@ -81,7 +81,7 @@ I am a software Engineer. I am interested in developing (open source) software s
 	</p>
 	<p align="left">ETL : <br>
 		<a href="https://www.talend.com/" target="_blank" rel="noreferrer"> 
-			<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Talend.svg" alt="Talend" width="40" height="40"/> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg" alt="Talend" width="40" height="40"/> 
 		</a>
 		<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
 			<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/> 
