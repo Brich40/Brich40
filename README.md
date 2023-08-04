@@ -79,10 +79,18 @@ I am a software Engineer. I am interested in developing (open source) software s
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 		</a>
 	</p>
+	<p align="left">ETL : <br>
+		<a href="https://www.talend.com/" target="_blank" rel="noreferrer"> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Talend.svg" alt="Talend" width="40" height="40"/> 
+		</a>
+		<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/> 
+		</a>
+	</p>
 	<p align="left">Cloud : <br>
 		<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
 			<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="docker" width="40" height="40"/> 
-		</a> 
+		</a>
 	</p>
 	<p align="left">Other : <br>
 		<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -93,7 +101,7 @@ I am a software Engineer. I am interested in developing (open source) software s
 		</a>
 		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 			<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-		</a> 
+		</a>
 		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 		</a> 
