@@ -76,7 +76,10 @@ I am a software Engineer. I am interested in developing (open source) software s
 			<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 		</a>
 		<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="55"/> 
+		</a>
+		<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="80" height="55"/> 
 		</a>
 	</p>
 	<p align="left">ETL : <br>
