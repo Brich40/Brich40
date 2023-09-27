@@ -91,7 +91,7 @@ I am a software Engineer. I am interested in developing (open source) software s
 		</a>
 	</p>
 	<p align="left">CD/CI : <br>
-		<a href="https://gitlab" target="_blank" rel="noreferrer"> 
+		<a href="https://gitlab.com" target="_blank" rel="noreferrer"> 
 			<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="GitLab" width="40" height="40"/> 
 		</a>
 		<a href="https://github.com" target="_blank" rel="noreferrer"> 
