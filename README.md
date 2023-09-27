@@ -90,9 +90,17 @@ I am a software Engineer. I am interested in developing (open source) software s
 			<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Talend_logo.svg" alt="Talend" width="80" height="40"/> 
 		</a>
 	</p>
+	<p align="left">CD/CI : <br>
+		<a href="https://gitlab" target="_blank" rel="noreferrer"> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/GitLab_icon.svg" alt="GitLab" width="40" height="40"/> 
+		</a>
+		<a href="https://github.com" target="_blank" rel="noreferrer"> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" alt="GitHub" width="40" height="40"/> 
+		</a>
+	</p>
 	<p align="left">Cloud : <br>
 		<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-			<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="docker" width="40" height="40"/> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure" width="40" height="40"/> 
 		</a>
 	</p>
 	<p align="left">Other : <br>
