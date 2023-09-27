@@ -67,6 +67,9 @@ I am a software Engineer. I am interested in developing (open source) software s
 		<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 			<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="80" height="40"/> 
 		</a>
+		<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+			<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" alt="PyTorch" width="80" height="40"/> 
+		</a>
 	</p>
 	<p align="left">Database : <br>
 		<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
