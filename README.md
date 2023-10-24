@@ -1,8 +1,11 @@
 # Hello !👋
 I am a software Engineer. I am interested in developing (open source) software solutions using Python, PHP, JavaScript, TypeScript.
 
-## My GitHub stats :
+## My GitHub projects stats :
 [![Brich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brich40&theme=tokyonight)](https://github.com/Brich40/)
+
+[![Brich's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brich40&show_icons=true&theme=tokyonight)](https://github.com/Brich40/)
+
 
 ## Languages and Tools:
 <p align="left">
