@@ -1,5 +1,5 @@
 # Hello !👋
-I am a software Engineer. I am interested in developing (open source) software solutions using Python, PHP, JavaScript, TypeScript.
+I am a software Engineer. I am interested in developing (open source) software solutions using TypeScript, JavaScript, Python.
 Enthusiastic about leveraging DevOps tools such as Docker, Kubernetes, Jenkins, CI/CD, and Ansible to streamline development processes and enhance product reliability.
 
 ## My GitHub projects stats :
