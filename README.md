@@ -1,9 +1,6 @@
 # Hello !👋
 I am a software engineer interested in developing software solutions using TypeScript, JavaScript, and Python. Enthusiastic about leveraging cloud programming technologies such as AWS, as well as DevOps tools like Docker, Kubernetes, Jenkins, CI/CD, and Ansible, to streamline development processes and enhance product reliability.
 
-## My GitHub projects stats :
-[![Brich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brich40&theme=tokyonight)](https://github.com/Brich40/)
-
 ## Languages and Tools:
 <p align="left">
 	<p align="left">Programming Languages : <br>
