@@ -82,10 +82,11 @@ I am a software engineer interested in developing software solutions using TypeS
 <td align="center"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/><br>Selenium</a></td>
 </tr></table>
 
-## More about me on : 
-<p align="left">
-	<a href="https://stackoverflow.com/users/13044759/oussama-brich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="30" width="40" /></a>
-	<a href="https://www.linkedin.com/in/brich40/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-	<a href="https://www.facebook.com/brich.oussama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
-	<a href="https://www.instagram.com/oussamabrich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
+## More about me on :
+
+<table><tr>
+<td align="center"><a href="https://stackoverflow.com/users/13044759/oussama-brich" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="40" width="40" /><br>Stack Overflow</a></td>
+<td align="center"><a href="https://www.linkedin.com/in/brich40/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /><br>LinkedIn</a></td>
+<td align="center"><a href="https://www.facebook.com/brich.oussama" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" width="40" /><br>Facebook</a></td>
+<td align="center"><a href="https://www.instagram.com/oussamabrich" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" width="40" /><br>Instagram</a></td>
+</tr></table>
